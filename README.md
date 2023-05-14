@@ -1,5 +1,6 @@
-https://github-readme-stats.vercel.app/api?username=RSRH-RS
-https://github-readme-stats.vercel.app/api/top-langs/?username=RSRH-RS
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RSRH-RS"> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSRH-RS"> </div>
+
 
 <!--
 **RSRH-Rs/RSRH-RS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
